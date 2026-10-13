@@ -1,2 +1,2 @@
-git revert <hash-du-commit>
-git push   
+git reset --hard <hash-de-l-ancienne-version>
+git push --force-with-lease   
