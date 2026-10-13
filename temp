@@ -1,0 +1,2 @@
+git revert <hash-du-commit>
+git push   
